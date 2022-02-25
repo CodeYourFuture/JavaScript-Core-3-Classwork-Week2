@@ -1,4 +1,4 @@
-# Read me
+# JavaScript-Core-3-Classwork-Week2-London8
 
 This repo contains exercises for use in class. Please put each exercise in its own clearly named folder so it's easy to find.
 
