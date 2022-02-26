@@ -2,7 +2,7 @@
 
 In groups the students should create a page of details about the United Kingdom.
 
-The API endpoint can be found [here](https://restcountries.eu/rest/v2/name/Great%20Britain?fullText=true)
+The API endpoint can be found [here](https://restcountries.com/v3.1/name/Great%20Britain)
 
 The website should include
 
