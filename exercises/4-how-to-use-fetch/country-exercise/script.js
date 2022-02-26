@@ -22,22 +22,22 @@ function getContentDiv() {
 
 function onLoad() {
   getData(
-    "https://restcountries.eu/rest/v2/name/Great%20Britain?fullText=true"
+    "https://restcountries.com/v3.1/name/Great%20Britain"
   );
 
   /** Remove this line when you have completed the task
 
-    getData("https://restcountries.eu/rest/v2/name/France?fullText=true");
+    getData("https://restcountries.com/v3.1/name/France");
 
-    getData("https://restcountries.eu/rest/v2/name/Germany?fullText=true");
+    getData("https://restcountries.com/v3.1/name/Germany");
 
-    getData("https://restcountries.eu/rest/v2/name/Spain?fullText=true");
+    getData("https://restcountries.com/v3.1/name/Spain");
 
-    getData("https://restcountries.eu/rest/v2/name/Portugal?fullText=true");
+    getData("https://restcountries.com/v3.1/name/Portugal");
 
-    getData("https://restcountries.eu/rest/v2/name/Hungary?fullText=true");
+    getData("https://restcountries.com/v3.1/name/Hungary");
 
-    getData("https://restcountries.eu/rest/v2/name/Russia?fullText=true");
+    getData("https://restcountries.com/v3.1/name/Russia");
 
     */ // Remove this line when you have completed the task
 }
