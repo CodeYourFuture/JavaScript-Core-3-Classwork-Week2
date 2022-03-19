@@ -2,11 +2,10 @@
 
 The purpose of the exercise is to get used to interpreting API documentation.
 
-Let's use the Chuck Norris Jokes API. The documentation can be found at [https://api.chucknorris.io/](https://api.chucknorris.io/).
+Let's use the Numbers API. The documentation can be found at [http://numbersapi.com/](http://numbersapi.com/).
 
-1. Read the "Usage" section and try each endpoint in the browser.
-
-2. Retrieve a random Chuck Norris joke related to movies. You will need to get data from one endpoint and then use it to retrieve data from another endpoint.
+1. Read the "URL Structure" section and try each endpoint in the browser.
+2. Retrieve a fact about today's date via the `date` endpoint.
 
 ## Recap
 
