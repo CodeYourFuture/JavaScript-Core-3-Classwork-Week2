@@ -19,12 +19,25 @@ Which of the statements below about APIs are false?
 - C) APIs can control access to data or features of an application.
 - D) You can change data via an API.
 
+~true
+
 ### QUESTION 2
 
 Give an example of a company that uses an API to allow access to their data.
+
+~false
 
 ### QUESTION 3
 
 What is the `myapi/` part of a url called in this url?
 
 `http://www.google.com/**myapi**/`
+
+~ true - get post put patch (updating a comment delete
+
+API
+true
+false - can use any programme
+true -
+true - get post put patch (updating a comment delete
+city Mapper Api

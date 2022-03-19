@@ -1,5 +1,13 @@
 // This function should retrieve the JSON from the `countryURL` and then call onCountryDataReceived() with the JSON
-function getData(countryURL) {}
+function getData(countryURL) {
+  fetch(countryURL)
+    .then((Response) => {
+      return Response.json();
+    })
+    .then((jason) => {
+      onCountryDataReceived(json);
+    });
+}
 
 function onCountryDataReceived(country) {
   addCountryName(country);
@@ -21,9 +29,7 @@ function getContentDiv() {
 }
 
 function onLoad() {
-  getData(
-    "https://restcountries.com/v3.1/name/Great%20Britain"
-  );
+  getData("https://restcountries.com/v3.1/name/Great%20Britain");
 
   /** Remove this line when you have completed the task
 
